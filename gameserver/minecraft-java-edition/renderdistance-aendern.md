@@ -6,14 +6,14 @@ description: Renderdistance auf Minecraft Server ändern
 
 ### Voraussetzungen
 
-* Zugang zum Server-Ordner (entweder über eine FTP-Verbindung oder direkten Zugang zu den Server-Dateien)
-  * Die FTP-Zugangsdaten findest Du in der Übersicht Deines Gameservers.
+* Zugang zum Server-Ordner (entweder über eine SFTP-Verbindung oder direkten Zugang zu den Server-Dateien)
+  * Die SFTP-Zugangsdaten findest Du in der Übersicht Deines Gameservers.
 
 ### Schritte
 
 1. Zugang zum Server-Ordner erhalten
 
-* Wenn Du über eine FTP-Verbindung verfügst, kannst Du Dich mit Deinen FTP-Zugangsdaten anmelden.
+* Wenn Du über eine SFTP-Verbindung verfügst, kannst Du Dich mit Deinen SFTP-Zugangsdaten anmelden.
 * Wenn Du direkten Zugang zu den Server-Dateien hast, navigiere zu dem Verzeichnis, in dem sich der Minecraft-Server befindet.
 
 2. Öffne die Server-Einstellungsdatei
