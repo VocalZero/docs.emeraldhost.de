@@ -5,7 +5,7 @@
 ## Gameserver
 
 * [Minecraft Java Edition](gameserver/minecraft-java-edition/README.md)
-  * [Sichtweite erhöhen](gameserver/minecraft-java-edition/sichtweite-erhoehen.md)
+  * [Renderdistance ändern](gameserver/minecraft-java-edition/renderdistance-aendern.md)
 
 ## Rootserver
 

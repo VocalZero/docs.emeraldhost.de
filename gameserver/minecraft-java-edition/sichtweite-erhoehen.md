@@ -1,2 +1,0 @@
-# Sichtweite erhöhen
-
