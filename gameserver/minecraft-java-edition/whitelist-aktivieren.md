@@ -40,6 +40,7 @@ description: Whitelist auf Minecraft Server verwenden
     ```json
     "SpielerName"
     ```
+
 * Speichere die Änderungen.
 
 6. Starte den Minecraft-Server neu
