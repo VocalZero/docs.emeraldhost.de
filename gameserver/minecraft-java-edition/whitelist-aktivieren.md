@@ -19,7 +19,7 @@ description: Whitelist auf Minecraft Server verwenden
 2. Öffne die Server-Einstellungsdatei
 
 * Die Datei "`server.properties`" befindet sich im Hauptverzeichnis des Minecraft-Servers.
-* Öffne die Datei mit einem Text-Editor deiner Wahl (z.B. Notepad, Sublime Text).
+* Öffne die Datei mit einem Text-Editor Deiner Wahl (z.B. Notepad, Sublime Text).
 
 3. Aktiviere die Whitelist
 
