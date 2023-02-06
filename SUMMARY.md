@@ -7,6 +7,7 @@
 * [Minecraft Java Edition](gameserver/minecraft-java-edition/README.md)
   * [Renderdistance ändern](gameserver/minecraft-java-edition/renderdistance-aendern.md)
   * [MOTD ändern](gameserver/minecraft-java-edition/motd-aendern.md)
+  * [Whitelist aktivieren](gameserver/minecraft-java-edition/whitelist-aktivieren.md)
 
 ## Rootserver
 
