@@ -37,7 +37,7 @@ description: Whitelist auf Minecraft Server verwenden
 * Öffne die "`whitelist.json`"-Datei.
 *   Jeder Spieler, der auf der Whitelist stehen soll, muss in einer neuen Zeile in folgendem Format hinzugefügt werden:
 
-    ```python
+    ```json
     "SpielerName"
     ```
 * Speichere die Änderungen.
