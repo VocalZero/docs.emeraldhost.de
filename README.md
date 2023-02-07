@@ -1,6 +1,6 @@
 # Willkommen!
 
-### Herzlich willkommen auf der EmeraldHost Knowledge Base!
+#### Herzlich willkommen auf der zentralen **Wissensdatenbank von** EmeraldHost !
 
 Hier möchten wir Dir, als unserem Kunden, unsere **Produkte** näher bringen und Dir zeigen, wie Du sie **bestmöglich nutzen kannst**.
 
