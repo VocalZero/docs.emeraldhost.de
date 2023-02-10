@@ -14,7 +14,7 @@ description: Installation von Mods auf einem Euro Truck Simulator 2 Server
 1. Öffne den Mod-Manager im Spiel
 
 * Starte Euro Truck Simulator 2.
-* Klicke im Hauptmenü auf den Mod-Manager.
+* Klicke im Hauptmenü auf den **Mod-Manager**.
 
 2. Aktiviere die gewünschten Mods
 
@@ -22,19 +22,19 @@ description: Installation von Mods auf einem Euro Truck Simulator 2 Server
 
 3. Starte das Spiel
 
-* Beginne ein Spiel und klicke in der Truckauswahl auf "Drive", um in die Spielwelt zu gelangen.
+* Beginne ein Spiel und klicke in der Truckauswahl auf "**Drive**", um in die Spielwelt zu gelangen.
 
 4. Exportiere die Server-Datenpakete
 
-* Öffne die Konsole im Spiel (drucke auf \~ oder \`).
-* Gib den Befehl "export\_server\_packages" ein.
+* Öffne die **Konsole** im Spiel (drucke auf `~` oder `` ` ``).
+* Gib den Befehl "`export_server_packages`" ein.
 * Schließe anschließend das Spiel.
 
 5. Lade die Datenpakete auf den Server
 
-* Stelle eine FTP-Verbindung zu Deinem Server her.
-* Navigiere zum Pfad ".local/share/Euro Truck Simulator 2".
-* Lade die Dateien "server\_packages.sii" und "server\_packages.dat" von Deinem lokalen Datenordner auf Deinen Server hoch.
+* Stelle eine SFTP-Verbindung zu Deinem Server her.
+* Navigiere zum Pfad "`.local/share/Euro Truck Simulator 2`".
+* Lade die Dateien "`server_packages.sii`" und "`server_packages.dat`" von Deinem lokalen Datenordner auf Deinen Server hoch.
 
 6. Starte den Server und das Spiel
 
