@@ -10,6 +10,8 @@
   * [Whitelist aktivieren](gameserver/minecraft-java-edition/whitelist-aktivieren.md)
 * [Euro Truck Simulator 2](gameserver/euro-truck-simulator-2/README.md)
   * [Mods hinzufügen](gameserver/euro-truck-simulator-2/mods-hinzufuegen.md)
+* [American Truck Simulator](gameserver/american-truck-simulator/README.md)
+  * [Mods hinzufügen](gameserver/american-truck-simulator/mods-hinzufuegen.md)
 
 ## Rootserver
 
