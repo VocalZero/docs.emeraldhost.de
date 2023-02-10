@@ -12,3 +12,5 @@ Möchtest Du **aktiv** bei der **Verbesserung** der zentralen **Wissensdatenbank
 _Das Projekt zum Forken findest Du hier:_
 
 {% embed url="https://github.com/emeraldhost/docs.emeraldhost.de" %}
+
+{% embed url="https://github.com/emeraldhost/docs.emeraldhost.de" %}
