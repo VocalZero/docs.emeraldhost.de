@@ -13,14 +13,6 @@
 * [American Truck Simulator](gameserver/american-truck-simulator/README.md)
   * [Mods hinzufügen](gameserver/american-truck-simulator/mods-hinzufuegen.md)
 
-## Rootserver
-
-* [Test](rootserver/test.md)
-
-## Domains
-
-* [Test](domains/test.md)
-
 ## Brauchst Du Hilfe?
 
 * [Discord](https://discord.emeraldhost.de/)
