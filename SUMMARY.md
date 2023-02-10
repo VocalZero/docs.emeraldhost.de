@@ -8,6 +8,8 @@
   * [Siehtweite eröhen](gameserver/minecraft-java-edition/renderdistance-aendern.md)
   * [MOTD ändern](gameserver/minecraft-java-edition/motd-aendern.md)
   * [Whitelist aktivieren](gameserver/minecraft-java-edition/whitelist-aktivieren.md)
+* [Euro Truck Simulator 2](gameserver/euro-truck-simulator-2/README.md)
+  * [Mods hinzufügen](gameserver/euro-truck-simulator-2/mods-hinzufuegen.md)
 
 ## Rootserver
 
