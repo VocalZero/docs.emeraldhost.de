@@ -21,7 +21,7 @@ description: Verleihung von OP-Rechten über Befehle auf Minecraft-Servern
 * Gib im Chat oder in der Konsole den Befehl `/op <Name>` ein, wobei Du \<Name> durch den Namen des Spielers ersetzt, dem Du OP-Rechte verleihen möchtest.
 
 {% hint style="info" %}
-Bitte beachte, dass das Verwenden von Schrägstrichen `"/"` bei den Befehlen im Webinterface nicht erforderlich ist.
+Bitte beachte, dass das Verwenden von Schrägstrichen "/" bei den Befehlen im Webinterface nicht erforderlich ist.
 {% endhint %}
 
 3. Überprüfe die Verleihung
