@@ -9,6 +9,8 @@
   * [MOTD ändern](gameserver/minecraft-java-edition/motd-aendern.md)
   * [Whitelist aktivieren](gameserver/minecraft-java-edition/whitelist-aktivieren.md)
   * [OP-Rechte vergeben](gameserver/minecraft-java-edition/op-rechte-vergeben.md)
+* [Minecraft Bedrock Edition](gameserver/minecraft-bedrock-edition/README.md)
+  * [Whitelist aktivieren](gameserver/minecraft-bedrock-edition/whitelist-aktivieren.md)
 * [Euro Truck Simulator 2](gameserver/euro-truck-simulator-2/README.md)
   * [Mods hinzufügen](gameserver/euro-truck-simulator-2/mods-hinzufuegen.md)
 * [American Truck Simulator](gameserver/american-truck-simulator/README.md)
