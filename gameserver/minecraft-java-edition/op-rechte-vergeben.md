@@ -28,7 +28,7 @@ Bitte beachte, dass das Verwenden von Schrägstrichen "/" bei den Befehlen im We
 
 * Überprüfe, ob der Befehl erfolgreich ausgeführt wurde, indem Du den Befehl `/list` eingibst. Der Spieler, dem Du OP-Rechte verliehen hast, sollte in der Liste der OPs aufgeführt werden.
 
-Das war's! Mit diesen Schritten solltest Du in der Lage sein, OP-Rechte auf einem Minecraft-Server über einen Befehl zu verleihen.
+Das war's! Mit diesen Schritten solltest Du in der Lage sein, OP-Rechte auf Deinem Minecraft-Server über einen Befehl zu verleihen.
 
 {% hint style="warning" %}
 Bitte beachte, dass OP-Rechte sehr mächtige Rechte darstellen und mit Vorsicht verwendet werden sollten.

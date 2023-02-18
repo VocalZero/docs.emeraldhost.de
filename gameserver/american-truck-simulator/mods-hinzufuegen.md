@@ -47,4 +47,4 @@ description: Installation von Mods auf einem American Truck Simulator Server
 * Deine Mods sollten nun im Spiel funktionieren.
 * Genieße Dein Spielerlebnis!
 
-Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf einem American Truck Simulator Server zu installieren und zu verwenden.
+Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf Deinem American Truck Simulator Server zu installieren und zu verwenden.

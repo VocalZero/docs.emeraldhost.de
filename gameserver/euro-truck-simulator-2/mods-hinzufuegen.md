@@ -47,4 +47,4 @@ description: Installation von Mods auf einem Euro Truck Simulator 2 Server
 * Deine Mods sollten nun im Spiel funktionieren.
 * Genieße Dein Spielerlebnis!
 
-Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf einem Euro Truck Simulator 2 Server zu installieren und zu verwenden.
+Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf Deinem Euro Truck Simulator 2 Server zu installieren und zu verwenden.
