@@ -28,7 +28,8 @@
 
 ## Domains
 
-* [DNS Einträge](domains/dns-eintraege.md)
+* [DNS Einträge](domains/dns-eintraege/README.md)
+  * [TeamSpeak Server](domains/dns-eintraege/teamspeak-server.md)
 
 ***
 
