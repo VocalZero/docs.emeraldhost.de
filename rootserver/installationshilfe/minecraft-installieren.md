@@ -23,8 +23,10 @@ apt update
 ```
 
 ```
-apt install oracle-java17-installer -y
+apt install screen gnupg oracle-java17-installer -y
 ```
+
+Akzeptiere die Lizenz Bedingungen mit indem du mit TAB auf "OK" gehst und mit "ENTER" bestätigst, im folgendem Fenster auf "JA" und wieder bestätigst mit "ENTER".
 
 </details>
 
@@ -43,7 +45,7 @@ apt install screen openjdk-17-jre-headless -y
 <summary>Ubuntu</summary>
 
 ```
-apt install software-properties-common -y
+apt install screen gnupg software-properties-common -y
 ```
 
 ```
@@ -57,6 +59,8 @@ apt update
 ```
 apt install oracle-java17-installer -y
 ```
+
+Akzeptiere die Lizenz Bedingungen mit indem du mit TAB auf "OK" gehst und mit "ENTER" bestätigst, im folgendem Fenster auf "JA" und wieder bestätigst mit "ENTER".
 
 </details>
 
