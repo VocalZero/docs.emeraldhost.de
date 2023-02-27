@@ -30,6 +30,10 @@
 
 * [DNS Einträge](domains/dns-eintraege.md)
 
+***
+
+* [Neukunden Rabatt sichern! 🎉](neukunden-rabatt-sichern.md)
+
 ## Brauchst Du Hilfe?
 
 * [Discord](https://discord.emeraldhost.de/)
