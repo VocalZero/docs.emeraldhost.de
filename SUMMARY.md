@@ -19,7 +19,7 @@
 ## Rootserver
 
 * [Installationshilfe](rootserver/installationshilfe/README.md)
-  * [Minecraft installieren](rootserver/installationshilfe/minecraft-installieren.md)
+  * [Minecraft Server installieren](rootserver/installationshilfe/minecraft-server-installieren.md)
   * [TeamSpeak 3 Server installieren](rootserver/installationshilfe/teamspeak-3-server-installieren.md)
 
 ## TeamSpeak

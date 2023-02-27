@@ -1,4 +1,4 @@
-# Minecraft installieren
+# Minecraft Server installieren
 
 1. Aktualisiere dein System und installiere notwendige Programme
 
