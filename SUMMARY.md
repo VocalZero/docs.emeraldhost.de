@@ -16,6 +16,19 @@
 * [American Truck Simulator](gameserver/american-truck-simulator/README.md)
   * [Mods hinzufügen](gameserver/american-truck-simulator/mods-hinzufuegen.md)
 
+## Rootserver
+
+* [Installationshilfe](rootserver/installationshilfe/README.md)
+  * [TeamSpeak 3 Server installieren](rootserver/installationshilfe/teamspeak-3-server-installieren.md)
+
+## TeamSpeak
+
+* [ServerQuery Login](teamspeak/serverquery-login.md)
+
+## Domains
+
+* [DNS Einträge](domains/dns-eintraege.md)
+
 ## Brauchst Du Hilfe?
 
 * [Discord](https://discord.emeraldhost.de/)

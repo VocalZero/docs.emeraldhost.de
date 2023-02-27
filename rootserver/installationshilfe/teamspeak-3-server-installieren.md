@@ -1,0 +1,21 @@
+# TeamSpeak 3 Server installieren
+
+Wir empfehlen für SSH-Verbindungen mit Servern das Programm "[PuTTY](https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html)".
+
+1. Verbinden dich mithilfe von [PuTTY](https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html) via SSH mit Ihrem Rootserver. \
+   Hierfür öffne [PuTTY](https://www.chiark.greenend.org.uk/\~sgtatham/putty/latest.html) und geben im Textfeld "Host Name (or IP address)" die Domain oder IP-Adresse Ihres Servers ein. Klicke anschließend unten auf "OK".
+2. Aktualisieren nun deine Paketlisten mit dem Befehl `apt update`.
+3. Installiere jetzt verfügbare Updates von bereits installierten Paketen mit dem Befehl `apt upgrade -y`.
+4. Fügen anschließend einen Benutzer, der später den TeamSpeak 3 Server ausführen wird, auf dem Server hinzu. Verwenden dazu folgenden Befehl: `adduser --disabled-login ts3`. In diesem Beispiel heißt der Benutzer "ts3".&#x20;
+5. Die Abfrage weiterer Angaben wie Name, Telefonnummer, etc. kannst du einfach mit der Enter-Taste überspringen. Bestätigen zum Schluss die Korrektheit der Informationen ebenfalls mit der Enter-Taste.
+6. Wechsel nun mit dem Befehl `su ts3` in das Benutzerkonto des TeamSpeak 3 Benutzers.
+7. Begebe dich nun mit dem Befehl `cd` in das Home-Verzeichnis dieses Benutzers. Das Home-Verzeichnis heißt genauso wie der Benutzer selbst und befindet sich dementsprechend unter dem Pfad "/home/ts3".
+8. Besuche nun die [TeamSpeak-Downloadseite](https://www.teamspeak.com/en/downloads/#server) und kopiere den Download-Link des TeamSpeak 3 Servers. Klicken dazu auf das Kopieren-Symbol rechts neben der jeweiligen Server-Version (32- oder 64-Bit) unter der Überschrift "Linux". Hast du ein 64-Bit System, was meistens der Fall sein sollte, so verwenden Sie natürlich die 64-Bit Version.
+9. Öffne nun wieder PuTTY, geben den Befehl "wget", gefolgt von einem Leerzeichen, ein und führen anschließend einen Rechtsklick im PuTTY-Fenster aus. Somit fügest du den Download-Link ein und der Befehl sollte beispielsweise so aussehen: `wget https://files.teamspeak-services.com/releases/server/3.13.7/teamspeak3-server_linux_amd64-3.13.7.tar.bz2`. Starte nun den Download mit der Enter-Taste.
+10. Nachdem der Download abgeschlossen ist, sollten mit dem Befehl `ls` das heruntergeladene .tar.bz2-Archiv zu sehen sein. Entpacke dieses mit dem Befehl "tar xfvj", gefolgt von einem Leerzeichen und dem Archivnamen (z.B. `tar xfvj teamspeak3-server_linux_amd64-3.13.7.tar.bz2`).
+11. Nachdem das Archiv entpackt wurde, lösche dieses mithilfe des Befehls "rm", gefolgt von einem Leerzeichen und dem Dateinamen (z.B. `rm teamspeak3-server_linux_amd64-3.13.7.tar.bz2`)
+12. Wechsel nun in das soeben entpackte TeamSpeak 3 Verzeichnis. Verwende dazu den Befehl "cd", gefolgt von einem Leerzeichen und dem Verzeichnisnamen (z.B. `cd teamspeak3-server_linux_amd64`).
+13. Damit du den TeamSpeak 3 Server starten kannst, musst du die TeamSpeak-Lizenzbedingungen akzeptieren. Hierzu erstellen Sie mithilfe des Befehls `touch .ts3server_license_accepted` eine Datei, um zu kennzeichnen, dass du die Lizenzbedingungen akzeptierst.
+14. Führe nun das Startscript aus, um den TeamSpeak 3 Server zu starten. Verwenden dazu  folgenden Befehl: `./ts3server_startscript.sh start`
+15. Dir wird nun ein Serveradmin-Passwort sowie ein Admin-Token angezeigt. Merken oder notieren dir das Serveradmin-Passwort und kopiere den Admin-Token. Mit dem Admin-Token kannst du im TeamSpeak 3 Client auf deinem Server die Administrationsrechte erhalten. Verbinde dich dazu mit deinem TeamSpeak 3 Server und klicke oben im Menü auf "Rechte" -> "Berechtigungsschlüssel benutzen". Das Serveradmin-Passwort ist wichtig, wenn du beispielsweise noch ein TeamSpeak 3 Webinterface installieren möchtest.
+16. Dein TeamSpeak 3 Server ist nun einsatzbereit. Du könntest ihn jederzeit starten und stoppen, indem du, wenn du als TeamSpeak 3 Benutzer angemeldet bist, mit dem Befehl `cd /home/ts3/teamspeak3-server_linux_amd64` in das TeamSpeak 3 Verzeichnis wechselst und dort das Script entsprechend ausführst (`./ts3server_startscript.sh start` bzw. `./ts3server_startscript.sh stop`). Solltest du noch als Benutzer "root" angemeldet sein, müsstest du erstes mithilfe des Befehls `su ts3` zum TeamSpeak 3 Benutzer wechseln.
