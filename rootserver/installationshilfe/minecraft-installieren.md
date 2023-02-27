@@ -111,6 +111,4 @@ chmod +x start.sh
 Die Konsole kann mit "screen -r minecraft" geöffnet werden.
 {% endhint %}
 
-7.
-
 [^1]: 
