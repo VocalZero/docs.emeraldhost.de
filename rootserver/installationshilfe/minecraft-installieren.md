@@ -6,9 +6,59 @@
 apt update && upgrade -y
 ```
 
+<details>
+
+<summary>Debian 10</summary>
+
 ```
-apt install screen default-jre
+apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 73C3DB2A
 ```
+
+```
+echo "deb http://ppa.launchpad.net/linuxuprising/java/ubuntu focal main" | tee /etc/apt/sources.list.d/java.list
+```
+
+```
+apt update
+```
+
+```
+apt install oracle-java17-installer -y
+```
+
+</details>
+
+<details>
+
+<summary>Debian 11</summary>
+
+```
+apt install screen openjdk-17-jre-headless -y 
+```
+
+</details>
+
+<details>
+
+<summary>Ubuntu</summary>
+
+```
+apt install software-properties-common -y
+```
+
+```
+add-apt-repository ppa:linuxuprising/java
+```
+
+```
+apt update
+```
+
+```
+apt install oracle-java17-installer -y
+```
+
+</details>
 
 2. Lege einen Subuser für den Server an und melde dich an
 
@@ -37,7 +87,7 @@ wget https://download.getbukkit.org/spigot/spigot-1.19.3.jar
 ändere bei -Xmx1G die 1 auf die anzahl deines Ram's z.B. 10 (Server mit 10 Gigabyte Ram)
 {% endhint %}
 
-5. Lizenzen aktzeptieren und dateirechte vergeben
+5. Lizenzen akzeptieren und dateirechte vergeben
 
 ```
 echo "eula = true" > eula.txt
@@ -54,13 +104,9 @@ chmod +x start.sh
 ```
 
 {% hint style="info" %}
-Die Console kann mit STRG + C geschlossen werden.
+Die Konsole kann mit "screen -r minecraft" geöffnet werden.
 {% endhint %}
 
-7. Wieder öffnen der Console
-
-```
-screen -r minecraft
-```
+7.
 
 [^1]: 
