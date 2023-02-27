@@ -26,7 +26,7 @@ apt update
 apt install screen gnupg oracle-java17-installer -y
 ```
 
-Akzeptiere die Lizenz Bedingungen mit indem du mit TAB auf "OK" gehst und mit "ENTER" bestätigst, im folgendem Fenster auf "JA" und wieder bestätigst mit "ENTER".
+Akzeptiere die Lizenz Bedingungen indem du mit **TAB** auf "OK" gehst und mit **ENTER** bestätigst. Im folgendem Fenster gehst du auf "JA" und bestätigst wieder mit **ENTER**.
 
 </details>
 
@@ -60,7 +60,7 @@ apt update
 apt install oracle-java17-installer -y
 ```
 
-Akzeptiere die Lizenz Bedingungen mit indem du mit TAB auf "OK" gehst und mit "ENTER" bestätigst, im folgendem Fenster auf "JA" und wieder bestätigst mit "ENTER".
+Akzeptiere die Lizenz Bedingungen indem du mit **TAB** auf "OK" gehst und mit **ENTER** bestätigst. Im folgendem Fenster gehst du auf "JA" und bestätigst wieder mit **ENTER**.
 
 </details>
 
