@@ -19,10 +19,10 @@
 ## Rootserver
 
 * [Installationshilfe](rootserver/installationshilfe/README.md)
-  * [Docker installieren](rootserver/installationshilfe/docker-installieren.md)
-  * [PhpMyAdmin, Apache2 und MySQL](rootserver/installationshilfe/phpmyadmin-apache2-und-mysql.md)
   * [Minecraft Server installieren](rootserver/installationshilfe/minecraft-server-installieren.md)
   * [TeamSpeak 3 Server installieren](rootserver/installationshilfe/teamspeak-3-server-installieren.md)
+  * [PhpMyAdmin, Apache2 und MySQL](rootserver/installationshilfe/phpmyadmin-apache2-und-mysql.md)
+  * [Docker installieren](rootserver/installationshilfe/docker-installieren.md)
 
 ## TeamSpeak
 
