@@ -15,11 +15,11 @@ apt install sudo bzip2
 2. Lege einen Subuser für den Server an und melde dich an
 
 ```
-sudo adduser teamspeak --disabled-login
+adduser teamspeak --disabled-login
 ```
 
 ```
-sudo su teamspeak -l
+su teamspeak -l
 ```
 
 3. Kopiere den Link für die neuste 64 Bit Linux Serverversion [auf der TeamSpeak Downloads Seite](https://www.teamspeak.com/en/downloads/#server)
