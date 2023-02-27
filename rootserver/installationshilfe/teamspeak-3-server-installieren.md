@@ -54,3 +54,7 @@ chmod +x ts3server_startscript.sh
 ```
 ./ts3server_startscript.sh start
 ```
+
+{% hint style="info" %}
+./ts3server\_startscript.sh geht ebenfalls mit stop, restart oder status.
+{% endhint %}
