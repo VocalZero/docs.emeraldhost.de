@@ -84,11 +84,24 @@ wget https://download.getbukkit.org/spigot/spigot-1.19.3.jar
 
 4. Startdatei erstellen
 
-<pre><code>echo "screen -AmdS minecraft java -Xms1G -Xmx<a data-footnote-ref href="#user-content-fn-1">1</a>G -jar spigot-1.19.3.jar" > start.sh
-</code></pre>
+Erstelle eine start.sh mit:
+
+```
+nano start.sh
+```
+
+Kopiere nun folgende Zeile und füge sie mit linksklick ein:
+
+```
+ screen -AmdS minecraft java -Xms1G -Xmx1G -jar spigot-1.19.3.jar
+```
 
 {% hint style="warning" %}
 ändere bei -Xmx1G die 1 auf die anzahl deines Ram's z.B. 10 (Server mit 10 Gigabyte Ram)
+{% endhint %}
+
+{% hint style="info" %}
+Speichere nun die Eingabe mit **STRG + O** und schließe das Fenster mit **STRG + X**
 {% endhint %}
 
 5. Lizenzen akzeptieren und dateirechte vergeben
@@ -110,5 +123,3 @@ chmod +x start.sh
 {% hint style="info" %}
 Die Konsole kann mit "screen -r minecraft" geöffnet werden.
 {% endhint %}
-
-[^1]: 
