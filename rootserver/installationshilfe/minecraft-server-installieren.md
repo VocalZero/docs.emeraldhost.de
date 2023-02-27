@@ -45,19 +45,19 @@ apt install screen openjdk-17-jre-headless -y
 <summary>Ubuntu</summary>
 
 ```
-apt install screen gnupg software-properties-common -y
+sudo apt install screen gnupg software-properties-common -y
 ```
 
 ```
-add-apt-repository ppa:linuxuprising/java
+sudo add-apt-repository ppa:linuxuprising/java
 ```
 
 ```
-apt update
+sudo apt update
 ```
 
 ```
-apt install oracle-java17-installer -y
+sudo apt install oracle-java17-installer -y
 ```
 
 Akzeptiere die Lizenz Bedingungen indem du mit **TAB** auf "OK" gehst und mit **ENTER** bestätigst. Im folgendem Fenster gehst du auf "JA" und bestätigst wieder mit **ENTER**.
