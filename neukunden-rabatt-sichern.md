@@ -8,7 +8,7 @@ Unsere Server sind mit den neuesten **Hardware- und Software-Technologien** ausg
 
 Mit EmeraldHost hast Du auch die Möglichkeit, Dein **Server-Hosting** individuell an Deine Bedürfnisse anzupassen. Wir bieten eine Vielzahl von Konfigurationsoptionen, damit Du Deine Server ganz nach Deinen **Wünschen** anpassen kannst. Du kannst auch jederzeit auf die neuesten **Spielversionen** und **-Updates** zugreifen, um sicherzustellen, dass Dein Spiel immer auf dem neuesten Stand ist.
 
-Als Neukunde profitierst Du von unserem **exklusiven Wiki-Rabatt von 10%**. Gebe einfach den **Gutscheincode "wiki10"** bei der Bestellung unter „Hast Du einen Rabattcode?“ ein und sichere Dir den Rabatt! Wir sind sicher, dass Du von unseren **Hosting-Lösungen** begeistert sein wirst und wir freuen uns darauf, Dich als Teil unserer wachsenden **Community** von **Gamern** und **Hosting-Kunden** begrüßen zu dürfen.
+Als Neukunde profitierst Du von unserem **exklusiven Wiki-Rabatt von 10%**. Gebe einfach den **Gutscheincode "`wiki10`"** bei der Bestellung unter „Hast Du einen Rabattcode?“ ein und sichere Dir den Rabatt! Wir sind sicher, dass Du von unseren **Hosting-Lösungen** begeistert sein wirst und wir freuen uns darauf, Dich als Teil unserer wachsenden **Community** von **Gamern** und **Hosting-Kunden** begrüßen zu dürfen.
 
 Wir sind stolz darauf, dass wir eine **99,9%ige Uptime-Garantie** bieten, um sicherzustellen, dass Dein Server immer **verfügbar** ist, wenn Du ihn brauchst. Wir verwenden auch die neuesten **Sicherheits-** und **Schutztechnologien**, um Deine Daten und Server vor **Bedrohungen** zu schützen.
 
