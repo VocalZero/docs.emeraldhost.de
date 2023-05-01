@@ -15,8 +15,8 @@
   * [Mods hinzufügen](gameserver/euro-truck-simulator-2/mods-hinzufuegen.md)
 * [American Truck Simulator](gameserver/american-truck-simulator/README.md)
   * [Mods hinzufügen](gameserver/american-truck-simulator/mods-hinzufuegen.md)
-* [Terraria: tModloader](gameserver/euro-truck-simulator-2-1/README.md)
-  * [Mods hinzufügen](gameserver/euro-truck-simulator-2-1/mods-hinzufuegen.md)
+* [Terraria: tModloader](gameserver/terraria-tmodloader/README.md)
+  * [Mods hinzufügen](gameserver/terraria-tmodloader/mods-hinzufuegen.md)
 
 ## Rootserver
 
