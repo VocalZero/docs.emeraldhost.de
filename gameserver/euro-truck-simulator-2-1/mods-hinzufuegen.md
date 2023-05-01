@@ -13,13 +13,13 @@ description: 'Installation von Mods auf einem Terraria: tModloader Server'
 
 1. Lade die gewünschten Mods herunter
 
-* Suche und lade die gewünschten Mods (.tmod-Dateien) von der offiziellen TModLoader-Webseite oder einer anderen vertrauenswürdigen Quelle herunter.
+* Suche und lade die gewünschten Mods (`.tmod-Dateien`) von der offiziellen tModloader-Webseite oder einer anderen vertrauenswürdigen Quelle herunter.
 
 2. Mods auf den Server hochladen
 
 * Stelle eine Verbindung über SFTP (bspw. über FileZilla oder WinSCP) zum Server her.
-* Erstelle einen Ordner namens "mods" im Terraria-Serververzeichnis (normalerweise /home/container/mods).
-* Lade die heruntergeladenen Mods (.tmod-Dateien) per SFTP in den "mods" Ordner auf Deinem Server.
+* Erstelle einen Ordner namens "**mods**" im Terraria-Serververzeichnis (normalerweise `/home/container/mods`).
+* Lade die heruntergeladenen Mods (`.tmod-Dateien`) per SFTP in den "**mods**" Ordner auf Deinem Server.
 
 3. Server starten und Mods aktivieren
 
@@ -32,6 +32,6 @@ description: 'Installation von Mods auf einem Terraria: tModloader Server'
 
 5. Genieße Dein Spielerlebnis!
 
-* Da der Server mit TModLoader betrieben wird, sollte das Aktivieren und Deaktivieren von Mods direkt im Spiel möglich sein, ohne dass manuelle Befehle ausgeführt werden müssen.
+* Da der Server mit tModloader betrieben wird, sollte das Aktivieren und Deaktivieren von Mods direkt im Spiel möglich sein, ohne dass manuelle Befehle ausgeführt werden müssen.
 
-Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf Deinem TModLoader Terraria Server zu installieren und zu verwenden.
+Das war's! Mit diesen Schritten solltest Du in der Lage sein, Mods auf Deinem Terraria: tModloader Server zu installieren und zu verwenden.
