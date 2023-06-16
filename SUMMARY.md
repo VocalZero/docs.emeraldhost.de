@@ -25,6 +25,10 @@
   * [TeamSpeak 3 Server installieren](rootserver/installationshilfe/teamspeak-3-server-installieren.md)
   * [PhpMyAdmin, Apache2 und MySQL](rootserver/installationshilfe/phpmyadmin-apache2-und-mysql.md)
   * [Docker installieren](rootserver/installationshilfe/docker-installieren.md)
+  * [Fail2Ban installieren](rootserver/installationshilfe/fail2ban-installieren.md)
+
+* [Konfigurationshilfe](rootserver/konfigurationshilfe/README.md)
+  * [Cronjobs (zeitgesteuerte Aufgaben)](rootserver/konfigurationshilfe/cronjobs-erstellen.md)
 
 ## TeamSpeak
 
