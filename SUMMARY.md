@@ -10,6 +10,7 @@
   * [Whitelist aktivieren](gameserver/minecraft-java-edition/whitelist-aktivieren.md)
   * [OP-Rechte vergeben](gameserver/minecraft-java-edition/op-rechte-vergeben.md)
 * [Minecraft Bedrock Edition](gameserver/minecraft-bedrock-edition/README.md)
+  * [Behavior und Resource Packs hinzufügen](gameserver/minecraft-bedrock-edition/behavior-und-resource-packs-hinzufuegen.md)
   * [Whitelist aktivieren](gameserver/minecraft-bedrock-edition/whitelist-aktivieren.md)
 * [Euro Truck Simulator 2](gameserver/euro-truck-simulator-2/README.md)
   * [Mods hinzufügen](gameserver/euro-truck-simulator-2/mods-hinzufuegen.md)
@@ -26,7 +27,6 @@
   * [PhpMyAdmin, Apache2 und MySQL](rootserver/installationshilfe/phpmyadmin-apache2-und-mysql.md)
   * [Docker installieren](rootserver/installationshilfe/docker-installieren.md)
   * [Fail2Ban installieren](rootserver/installationshilfe/fail2ban-installieren.md)
-
 * [Konfigurationshilfe](rootserver/konfigurationshilfe/README.md)
   * [Cronjobs (zeitgesteuerte Aufgaben)](rootserver/konfigurationshilfe/cronjobs-erstellen.md)
 
