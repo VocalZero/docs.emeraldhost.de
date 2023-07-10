@@ -18,6 +18,7 @@
   * [Mods hinzufügen](gameserver/american-truck-simulator/mods-hinzufuegen.md)
 * [Terraria: tModloader](gameserver/terraria-tmodloader/README.md)
   * [Mods hinzufügen](gameserver/terraria-tmodloader/mods-hinzufuegen.md)
+  * [Welt hinzufügen](gameserver/terraria-tmodloader/welt-hinzufuegen.md)
 
 ## Rootserver
 
